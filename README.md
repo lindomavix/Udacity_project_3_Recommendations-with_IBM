@@ -24,6 +24,7 @@ user-item-interactions.csv: file contains user interaction.
 
 articles_community.csv: file contains articles description.
 
-Acknowledgments
+
+ACKNOWLEDGEMENTS
 
 Thanks to udacity for the learning contend as well as IBM for the Data
