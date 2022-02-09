@@ -21,6 +21,7 @@ Matrix Factorization: Finally, I completed a machine learning approach to buildi
 DATA
 
 user-item-interactions.csv: file contains user interaction.
+
 articles_community.csv: file contains articles description.
 
 Acknowledgments
